@@ -20,3 +20,6 @@ Tecnologias utilizadas:
 , ![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/0ca7df77-2975-4bf2-9a7a-e283d7240128).
 
 Para acessar a página clique https://jcastro456.github.io/Challenge-Oracle-One/.
+
+![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/ed7be3a9-6fb1-4af6-8cb0-8eb87f17a9ec)
+
