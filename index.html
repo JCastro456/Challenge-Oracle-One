@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">  
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge One - Decodificador de Texto</title>
+    <link rel="stylesheet" href="style.css">  
+    <link rel="stylesheet" href="mobile.css"> 
+    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+</head>
+<body>
+
+    <main class="main container">            
+        <header class="header">
+            <img src="img/logo.png" alt="logo">
+            <h3>Mensagem Criptografada/Descriptografada</h3>
+        </header>
+
+    <section class="container-input">
+        <section class="input">
+            <p>Digite um texto que deseja criptografar ou descriptografar:</p>
+            <textarea id="input-texto" placeholder="Digite o texto aqui..."></textarea>
+            <p><img src="img/!.png" alt="ponto de esclamação"> Apenas letras minúsculas e sem acento.</p>
+        </section>
+
+        <section id="output">
+            <img src="img/boneco.jpg" alt="logo">
+            <h2>Nenhuma mensagem encontrada.</h2>            
+        </section>
+    </section>
+
+    <section class="button">
+        <section class="container-btn">
+            <button onclick="criptografar()" class="btn-criptografar">Criptografar</button>
+            <button onclick="descriptografar()" class="btn-descriptografar">Descriptografar</button>   
+            <button onclick="limpar()" class="btn-limpar" id="limpar">Limpar</button>                     
+        </section>
+    </section>
+    </main>
+    
+    <footer class="footer">
+        <div class="icons">
+            <a href="https://github.com/JCastro456"><ion-icon name="logo-github"></ion-icon></a>            
+        </div>
+        <h3>Desenvolvido por Jackeline Castro</h3>
+    </footer>
+
+    <script src="script.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
