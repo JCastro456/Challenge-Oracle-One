@@ -15,6 +15,8 @@ Adicionei um botão de copiar, onde o usuário pode colar o texto criptografado 
 
 O desafio foi desenvolvido em:
 
-HTML, CSS, JAVASCRIPT.
+![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/fcfc7d30-eaf8-4753-83d2-8a4721391a51)
+, ![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/c862bba7-fe95-4f68-81c4-78d06e56b738)
+, ![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/0ca7df77-2975-4bf2-9a7a-e283d7240128).
 
 Para acessar a página clique https://jcastro456.github.io/Challenge-Oracle-One/.
