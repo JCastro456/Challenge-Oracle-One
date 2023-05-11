@@ -19,4 +19,4 @@ O desafio foi desenvolvido em:
 , ![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/c862bba7-fe95-4f68-81c4-78d06e56b738)
 , ![image](https://github.com/JCastro456/Challenge-Oracle-One/assets/101068316/0ca7df77-2975-4bf2-9a7a-e283d7240128).
 
-Para acessar a página clique https://jcastro456.github.io/Challenge-Oracle-One/.
+Para acessar a página clique ![deploy](https://jcastro456.github.io/Challenge-Oracle-One/).
